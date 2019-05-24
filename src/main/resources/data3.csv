@@ -1,0 +1,19 @@
+CUSTOMERID,FIRSTNAME,MIDDLENAME,LASTNAME,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,ZIPCODE,PURCHASEINFOID,PURCHASEDESC,PURCHASEDATE,PURCHASEAMOUNT
+100,John,H,Doe,100 Main,Street,Saint Louis, MO,63344,1,Bed Frame,05/20/2019,120
+100,John,H,Doe,100 Main,Street,Saint Louis, MO,63344,2,Mattress,04/22/2019,75
+100,John,H,Doe,100 Main,Street,Saint Louis, MO,63344,3,Television,03/22/2019,75
+100,John,H,Doe,100 Main,Street,Saint Louis, MO,63344,4,Cushion,05/20/2019,120
+100,John,H,Doe,100 Main,Street,Saint Louis, MO,63344,5,Sofa Cover,04/22/2019,75
+100,John,H,Doe,100 Main,Street,Saint Louis, MO,63344,6,Bag,03/22/2019,75
+200,Ari,C,Starus,200 Main,Street,Saint Louis, MO,63344,1,Wolf Necklace,03/12/2019,150
+200,Ari,C,Starus,200 Main,Street,Saint Louis, MO,63344,2,Apples,03/20/2019,50
+200,Ari,C,Starus,200 Main,Street,Saint Louis, MO,63344,3,Bag,04/02/2019,70
+200,Ari,C,Starus,200 Main,Street,Saint Louis, MO,63344,4,Flag,04/10/2019,180
+200,Ari,C,Starus,200 Main,Street,Saint Louis, MO,63344,5,Dagger Pin,05/16/2019,120
+200,Ari,C,Starus,200 Main,Street,Saint Louis, MO,63344,6,Food,05/25/2019,50
+300,Mera,A,Curry,300 Main,Street,Saint Louis, MO,63344,1,Trident,03/05/2019,200
+300,Mera,A,Curry,300 Main,Street,Saint Louis, MO,63344,2,Flowers,03/19/2019,65
+300,Mera,A,Curry,300 Main,Street,Saint Louis, MO,63344,3,Book,04/06/2019,50
+300,Mera,A,Curry,300 Main,Street,Saint Louis, MO,63344,4,Necklace,04/15/2019,130
+300,Mera,A,Curry,300 Main,Street,Saint Louis, MO,63344,5,Tracking Device,05/12/2019,195
+300,Mera,A,Curry,300 Main,Street,Saint Louis, MO,63344,6,Water Bottle,05/30/2019,60
